@@ -9,7 +9,7 @@
 ## 🌱 I’m currently learning  
 - Advanced SQL for large-scale analytics  
 - GitHub Actions for CI/CD of dashboards  
-- Python for data-engineering pipelines  
+- Python & R for data-engineering pipelines  
 
 ## 💞️ I’m looking to collaborate on  
 - Open-source BI dashboard templates  
